@@ -1,0 +1,38 @@
+﻿<h2>Carrito de Compras</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Imagen</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Acción</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var elemento in Model)
+        {
+            <tr>
+                <td class="align-middle">@elemento.Producto.Nombre</td>
+                <td><img src="~/img/@elemento.Producto.Imagen" alt="@elemento.Producto.Nombre" width="100"></td>
+                <td class="align-middle">@elemento.Producto.Precio.ToString("C")</td>
+                <td class="align-middle">@elemento.Cantidad</td>
+                <td class="align-middle">
+                    <form asp-action="EliminarDelCarrito" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@elemento.Producto.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Eliminar uno</button>
+                    </form>
+                </td>
+                <td class="align-middle">@((elemento.Producto.Precio * elemento.Cantidad).ToString("C"))</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3 class="text-right">Total: <span class="text-dark font-weight-bold">@ViewBag.Total.ToString("C")</span></h3>
+
+<div class="text-right">
+    <a href="/Tienda/Index" class="btn btn-secondary">Volver atrás</a>
+    <a href="/Tienda/FinalizarCompra" class="btn btn-success">Finalizar compra</a>
+</div>

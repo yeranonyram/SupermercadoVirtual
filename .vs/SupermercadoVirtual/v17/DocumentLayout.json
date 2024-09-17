@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\views\\tienda\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\views\\tienda\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\views\\tienda\\vercarrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\views\\tienda\\vercarrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|c:\\users\\flores\\source\\repos\\supermercadovirtual\\supermercadovirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0413D1AB-46CF-4433-A8A4-F0C7368E3DCF}|SupermercadoVirtual\\SupermercadoVirtual.csproj|solutionrelative:supermercadovirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "SupermercadoVirtual\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T23:40:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalizarCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "RelativeToolTip": "SupermercadoVirtual\\Views\\Tienda\\FinalizarCompra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T23:41:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "SupermercadoVirtual\\Controllers\\TiendaController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAmwGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerCarrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\VerCarrito.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Views\\Tienda\\VerCarrito.cshtml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Tienda\\VerCarrito.cshtml",
+              "RelativeToolTip": "SupermercadoVirtual\\Views\\Tienda\\VerCarrito.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T23:41:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SupermercadoVirtual\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T05:01:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Models\\Producto.cs",
+              "RelativeToolTip": "SupermercadoVirtual\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:35:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "SupermercadoVirtual\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:04:05.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SupermercadoVirtual\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\SupermercadoVirtual\\SupermercadoVirtual\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SupermercadoVirtual\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:12:55.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
